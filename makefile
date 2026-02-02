@@ -1,5 +1,5 @@
-compile: main-exercise.c
-	 gcc main-exercise.c -o test
+compile: main.c
+	 gcc main.c -o test
 
 run: test
 	 ./test
